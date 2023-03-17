@@ -1,6 +1,6 @@
 ## Machine Learning with Scikit Learn
 
-R cheat sheet: ![Alt Text](https://mapstats.files.wordpress.com/2020/12/base-r-1.jpg?w=1024)
+R cheat sheet: ![Alt Text](https://scikit-learn.org/stable/_static/ml_map.png)
 
 ### Useful Links
 Calculating Simple Linear Regression and Linear Best Fit an In-depth Tutorial with Math and Python
