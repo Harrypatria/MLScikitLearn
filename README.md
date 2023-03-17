@@ -1,7 +1,7 @@
 ## Machine Learning with Scikit Learn
 
 ![Alt Text](https://scikit-learn.org/stable/_static/ml_map.png)
-https://scikit-learn.org/stable/_static/ml_map.png
+
 ### Useful Links
 Calculating Simple Linear Regression and Linear Best Fit an In-depth Tutorial with Math and Python
 scikit-learn Tutorials
