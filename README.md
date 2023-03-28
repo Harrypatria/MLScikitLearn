@@ -1,4 +1,4 @@
-## Machine Learning with Scikit Learn
+## Machine Learning using Scikit Learn
 
 ![Alt Text](https://scikit-learn.org/stable/_static/ml_map.png)
 
