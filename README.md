@@ -31,7 +31,6 @@ Supervised Models: A vast array not limited to generalized linear models, discri
 Unsupervised Learning Algorithms: − They include clustering, factor analysis, PCA (Principal Component Analysis), unsupervised neural networks.
 
 ### Dependencies:
-
 Python 3.x
 scikit-learn
 shap
